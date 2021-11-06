@@ -25,7 +25,7 @@ In this project we will demonstrate the following:
 ### Application Setup
 | # | Link | Description |
 |---|---|---|
-| 1 | [Initial App](https://github.com/kobi2294/OracleWeek2021/commit/78607a9f161c21e1943b7589915ab4b2216f22e9) | Created the app using `ng new hello-rxjs` |
+| 1 | [Initial App](../../commit/78607a9f161c21e1943b7589915ab4b2216f22e9) | Created the app using `ng new hello-rxjs` |
 | 2 | [Prepare Playground](https://github.com/kobi2294/OracleWeek2021/commit/bca350e8028de3efe53bc0f7e307daeee50d5f8c) | Empty the app component, and prepare it to run an algorithm on the console |
 
 ### Fun with Observables
