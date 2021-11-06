@@ -1,11 +1,11 @@
-<img src="https://github.com/kobi2294/DevGeekWeek2021/blob/master/presentations/Logo.png" data-canonical-src="https://github.com/kobi2294/DevGeekWeek2021/blob/master/presentations/Logo.png" height="100">
+<img src="presentations/Logo.png" data-canonical-src="presentations/Logo.png" height="100">
 
-<img src="https://github.com/kobi2294/DevGeekWeek2021/blob/master/presentations/Angular.png" data-canonical-src="https://github.com/kobi2294/DevGeekWeek2021/blob/master/presentations/Angular.png" height="100"><img src="https://github.com/kobi2294/DevGeekWeek2021/blob/master/presentations/RxJS.png" data-canonical-src="https://github.com/kobi2294/DevGeekWeek2021/blob/master/presentations/RxJS.png" height="100"><img src="https://github.com/kobi2294/DevGeekWeek2021/blob/master/presentations/Material.png" data-canonical-src="https://github.com/kobi2294/DevGeekWeek2021/blob/master/presentations/Material.png" height="100"><img src="https://github.com/kobi2294/DevGeekWeek2021/blob/master/presentations/Angular Material.png" data-canonical-src="https://github.com/kobi2294/DevGeekWeek2021/blob/master/presentations/Angular Material.png" height="100"><img src="https://github.com/kobi2294/DevGeekWeek2021/blob/master/presentations/Redux.png" data-canonical-src="https://github.com/kobi2294/DevGeekWeek2021/blob/master/presentations/Redux.png" height="100"><img src="https://github.com/kobi2294/DevGeekWeek2021/blob/master/presentations/NgRx.png" data-canonical-src="https://github.com/kobi2294/DevGeekWeek2021/blob/master/presentations/NgRx.png" height="100">
+<img src="presentations/Angular.png" data-canonical-src="presentations/Angular.png" height="100"><img src="presentations/RxJS.png" data-canonical-src="presentations/RxJS.png" height="100"><img src="presentations/Material.png" data-canonical-src="presentations/Material.png" height="100"><img src="presentations/Angular Material.png" data-canonical-src="presentations/Angular Material.png" height="100"><img src="presentations/Redux.png" data-canonical-src="presentations/Redux.png" height="100"><img src="presentations/NgRx.png" data-canonical-src="presentations/NgRx.png" height="100">
 
-# Advanced Angular @ Dev Geek Week 2021
-*By Kobi Hari (23/06/2021)*
+# Advanced Angular @ Oracle Week 2021
+*By Kobi Hari (10/11/2021)*
 
-This repository contains all the projects and documentation provided during the Advanced Angular session in Dev Geek Week 2021 convention. You can find all the projects written live, in addition to some extra material.
+This repository contains all the projects and documentation provided during the Advanced Angular session in Oracle Week 2021 convention. You can find all the projects written live, in addition to some extra material.
 
 ## Contact me
 Please feel free to contact me with questions, or just to have a chat :-)
@@ -15,12 +15,11 @@ Please feel free to contact me with questions, or just to have a chat :-)
 Here you can find the projects, and the documentation, that I provided during the session. 
 Specifically:
 ### Projects:
-- [**hello-rxjs**](https://github.com/kobi2294/DevGeekWeek2021/tree/master/projects/hello-rxjs) - Search colors using *Observables*, *Observers*, *Subjects*, and *Operators*
-- [**redux-pop-quiz**](https://github.com/kobi2294/DevGeekWeek2021/tree/master/projects/redux-pop-quiz) - A "Multiple Question" quiz implemented using NgRx and Material
+- [**hello-rxjs**](https://github.com/kobi2294/OracleWeek2021/tree/master/projects/hello-rxjs) - Search colors using *Observables*, *Observers*, *Subjects*, and *Operators*
+- [**redux-pop-quiz**](https://github.com/kobi2294/OracleWeek2021/tree/master/projects/redux-pop-quiz) - A "Multiple Question" quiz implemented using NgRx and Material
 
 ### Presentation and Video
-- [**A Video of the second demo**](https://www.dropbox.com/s/ufiox0t3d359zz2/Dev%20geek%20week%202020.mp4?dl=0)
-- [**The Presentation**](https://github.com/kobi2294/DevGeekWeek2021/blob/master/presentations/Presentation.pdf)
+- [**The Presentation**](presentations/Presentation.pdf)
 
 ## Some relevant links
 ### Docmentation
