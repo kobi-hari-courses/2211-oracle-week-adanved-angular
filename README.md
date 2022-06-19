@@ -2,10 +2,10 @@
 
 <img src="presentations/Angular.png" data-canonical-src="presentations/Angular.png" height="100"><img src="presentations/RxJS.png" data-canonical-src="presentations/RxJS.png" height="100"><img src="presentations/Material.png" data-canonical-src="presentations/Material.png" height="100"><img src="presentations/Angular Material.png" data-canonical-src="presentations/Angular Material.png" height="100"><img src="presentations/Redux.png" data-canonical-src="presentations/Redux.png" height="100"><img src="presentations/NgRx.png" data-canonical-src="presentations/NgRx.png" height="100">
 
-# Advanced Angular @ Oracle Week 2021
-*By Kobi Hari (10/11/2021)*
+# Advanced Angular @ Dev Geek Week 2022
+*By Kobi Hari (22/06/2022)*
 
-This repository contains all the projects and documentation provided during the Advanced Angular session in Oracle Week 2021 convention. You can find all the projects written live, in addition to some extra material.
+This repository contains all the projects and documentation provided during the Advanced Angular session in Dev Geek Week 2022 convention. You can find all the projects written live, in addition to some extra material.
 
 ## Contact me
 Please feel free to contact me with questions, or just to have a chat :-)
@@ -15,8 +15,8 @@ Please feel free to contact me with questions, or just to have a chat :-)
 Here you can find the projects, and the documentation, that I provided during the session. 
 Specifically:
 ### Projects:
-- [**hello-rxjs**](https://github.com/kobi2294/OracleWeek2021/tree/master/projects/hello-rxjs) - Search colors using *Observables*, *Observers*, *Subjects*, and *Operators*
-- [**redux-pop-quiz**](https://github.com/kobi2294/OracleWeek2021/tree/master/projects/redux-pop-quiz) - A "Multiple Question" quiz implemented using NgRx and Material
+- [**hello-rxjs**](projects/hello-rxjs/) - Search colors using *Observables*, *Observers*, *Subjects*, and *Operators*
+- [**redux-pop-quiz**](projects/redux-pop-quiz/) - A "Multiple Question" quiz implemented using NgRx and Material
 
 ### Presentation and Video
 - [**The Presentation**](presentations/Presentation.pdf)
