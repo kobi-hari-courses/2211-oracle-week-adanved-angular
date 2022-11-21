@@ -2,10 +2,10 @@
 
 <img src="presentations/Angular.png" data-canonical-src="presentations/Angular.png" height="100"><img src="presentations/RxJS.png" data-canonical-src="presentations/RxJS.png" height="100"><img src="presentations/Material.png" data-canonical-src="presentations/Material.png" height="100"><img src="presentations/Angular Material.png" data-canonical-src="presentations/Angular Material.png" height="100"><img src="presentations/Redux.png" data-canonical-src="presentations/Redux.png" height="100"><img src="presentations/NgRx.png" data-canonical-src="presentations/NgRx.png" height="100">
 
-# Advanced Angular @ Dev Geek Week 2022
-*By Kobi Hari (22/06/2022)*
+# Advanced Angular @ Oracle 2022
+*By Kobi Hari (23/11/2022)*
 
-This repository contains all the projects and documentation provided during the Advanced Angular session in Dev Geek Week 2022 convention. You can find all the projects written live, in addition to some extra material.
+This repository contains all the projects and documentation provided during the Advanced Angular session in Oracle Week 2022 convention. You can find all the projects written live, in addition to some extra material.
 
 ## Contact me
 Please feel free to contact me with questions, or just to have a chat :-)
